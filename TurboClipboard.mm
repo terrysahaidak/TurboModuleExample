@@ -3,8 +3,7 @@
 #import <UIKit/UIKit.h>
 #import <React/RCTBridge+Private.h>
 #import <React/RCTUtils.h>
-#import <jsi/jsi.h>
-#import <ReactCommon/RCTTurboModule.h>
+#import <React/RCTLog.h>
 #import "TurboClipboardSpec.h"
 
 using namespace facebook::react;

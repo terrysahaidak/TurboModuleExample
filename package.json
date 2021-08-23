@@ -9,8 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "react-native-codegen": "^0.0.7",
+  "devDependencies": {
     "react-native-tscodegen": "^0.68.1",
     "react-native-tscodegen-types": "^0.67.2"
   }
