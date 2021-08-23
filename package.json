@@ -1,0 +1,17 @@
+{
+  "name": "TurboClipboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NativeTurboClipboard.js",
+  "scripts": {
+    "codegen": "react-native-tscodegen ./react-native-tscodegen.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-codegen": "^0.0.7",
+    "react-native-tscodegen": "^0.68.1",
+    "react-native-tscodegen-types": "^0.67.2"
+  }
+}

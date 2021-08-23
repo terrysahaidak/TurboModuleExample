@@ -1,0 +1,7 @@
+{
+  "libraryName": "TurboClipboard",
+  "outputDirectory": "./lib/cpp-generated",
+  "moduleSpecName": "TurboClipboardSpec",
+  "generators": ["modulesIOS"],
+  "inputFile": "./src/TurboModule.ts"
+}
